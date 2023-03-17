@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un reposito de prueba de l modulo2 del prepcourse de Henry
+Este proyecto es una prueba de como crear un rep y como clonar a mi pc
